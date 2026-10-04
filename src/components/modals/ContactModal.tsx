@@ -135,7 +135,7 @@ export const ContactModal: React.FC<ContactModalProps> = ({
                 disabled={loading}
                 value={phone}
                 onChange={(e) => setPhone(e.target.value)}
-                placeholder="+91 98765 43210"
+                placeholder="+91 9856666999"
                 className={inputClass}
               />
             </div>
